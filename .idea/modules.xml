@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cache/Cache.iml" filepath="$PROJECT_DIR$/Cache/Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileSystem/FileSystem.iml" filepath="$PROJECT_DIR$/FileSystem/FileSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fitness_Slot_Booking_App/Fitness_Slot_Booking_App.iml" filepath="$PROJECT_DIR$/Fitness_Slot_Booking_App/Fitness_Slot_Booking_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" filepath="$PROJECT_DIR$/FoodDelivery/FoodDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD-Questions.iml" filepath="$PROJECT_DIR$/.idea/LLD-Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notification System/Notification System.iml" filepath="$PROJECT_DIR$/Notification System/Notification System.iml" />
+    </modules>
+  </component>
+</project>
